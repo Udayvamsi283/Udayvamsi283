@@ -15,7 +15,7 @@
 - 🏆 **CodeChef 2★ Programmer** (Peak Rating: **1570**)
 - 🚀 **LeetCode Max Rating: 1755**
 - 🔥 Solved **900+ problems** across coding platforms
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **udaysynapses@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
