@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Udayvamsi283/Udayvamsi283/main/assets/coding.gif" alt="Profile-gif" width="100%">
+    <img src="https://raw.githubusercontent.com/Udayvamsi283/Udayvamsi283/main/visual/coding.gif" alt="Profile-gif" width="100%">
 </div>
 
 # Hey there! 👋 I'm Uday Vamsi
